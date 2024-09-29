@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution](https://your-solution-url.com)
+- Live Site URL: [live site](https://lolontor.github.io/faq-accordion-main/)
 
 ## My process
 First, I statred with the structing of my accordion page with html5 
@@ -60,8 +60,8 @@ During this challenge, I really learnt a lot. I was able to use JavaScript on my
 
 ### Continued development
 
-JavaScript fundamentals.
-JavaScript for frontend development.
+- JavaScript fundamentals.
+- JavaScript for frontend development.
 
 
 ### Useful resources
@@ -82,6 +82,6 @@ JavaScript for frontend development.
 
 ## Acknowledgments
 
-I will like to thank the frontend challenge team for putting up such a wonderful challenges to help individual master frontend development. Also, I greatful for Kevin Powell who always mention frontend mentor in most of his tutorials so I decided to check it up. Thank you.
+I will like to thank the frontend challenge team for putting up such a wonderful challenges to help individuals master frontend development. Also, I am greatful for Kevin Powell who always mention frontend mentor in most of his tutorials so I decided to check it up. Thank you.
 
 
