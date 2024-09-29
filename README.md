@@ -36,7 +36,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution](https://your-solution-url.com)
+- Solution URL: [solution]([https://your-solution-url.com](https://www.frontendmentor.io/solutions/faq-accordion-main-60Bol29nMO))
 - Live Site URL: [live site](https://lolontor.github.io/faq-accordion-main/)
 
 ## My process
