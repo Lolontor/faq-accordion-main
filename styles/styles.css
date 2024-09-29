@@ -27,7 +27,7 @@ body{
 }
 
 .background-img{
-    background: url(/assets/images/background-pattern-mobile.svg) ;
+    background: url(../assets/images/background-pattern-mobile.svg) ;
     height: 30%;
     width: 100%;
     position: absolute;
@@ -135,7 +135,7 @@ footer{
         font-size: 16px;
     }
     .background-img{
-        background: url(/assets/images/background-pattern-desktop.svg) ;
+        background: url(../assets/images/background-pattern-desktop.svg) ;
     }
    
 }
