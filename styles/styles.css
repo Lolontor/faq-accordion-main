@@ -62,8 +62,11 @@ body{
 }
 
 .accordion-div{
-    cursor: pointer;
     border-bottom: rgba(128, 128, 128, 0.233) 1px solid;
+}
+
+button, .accordion-div{
+    cursor: pointer;
 }
 
 .accordion-div:last-child{
@@ -94,6 +97,7 @@ img.icon2{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin-bottom: 1rem;
 }
 
 .question-and-icon:hover h2{
@@ -110,7 +114,7 @@ img.icon2{
 }
 
 .answer{
-    margin-block: .5rem;
+    margin-block: 1rem;
     color: var(--Grayish-purple);
     
 }
